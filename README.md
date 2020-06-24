@@ -3,7 +3,7 @@
 IoTE Wallet docker file
 ## Run
 ```
-git clone https://github.com/IoTEChain/IoTE-docker.git
+git clone https://github.com/IoTEChain/IoTE-wallet-docker.git
 ```
 
 
